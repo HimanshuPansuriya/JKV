@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/home"
+        android:title="Home" />
+    <item
+        android:id="@+id/about_us"
+        android:title="About us" />
+    <item
+        android:id="@+id/our_products"
+        android:title="Our Products" />
+    <item
+        android:id="@+id/contect_us"
+        android:title="Contect us" />
+    <item
+        android:id="@+id/inquire_form"
+        android:title="Inquiries form" />
+</menu>
